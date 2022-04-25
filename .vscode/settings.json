@@ -1,0 +1,32 @@
+{
+  "files.eol": "\n",
+  "files.insertFinalNewline": true,
+  "files.watcherExclude": {
+    "**/.git/objects/**": true,
+    "**/.git/subtree-cache/**": true,
+    "**/node_modules/**": true,
+    "**/web/node_modules": true,
+    "**/web/build": true,
+    "**/admin/node_modules": true
+  },
+  "editor.tabSize": 2,
+  "editor.formatOnSave": false,
+  "editor.formatOnPaste": false,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "javascript.preferences.quoteStyle": "single",
+  "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+  "css.lint.importStatement": "error",
+  "css.lint.duplicateProperties": "warning",
+  "scss.lint.compatibleVendorPrefixes": "warning",
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "html",
+    "typescript",
+    "typescriptreact"
+  ],
+  "turboConsoleLog.addSemicolonInTheEnd": false,
+  "turboConsoleLog.quote": "`"
+}

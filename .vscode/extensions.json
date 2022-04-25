@@ -1,0 +1,13 @@
+{
+  "recommendations": [
+    "editorconfig.editorconfig",
+    "dbaeumer.vscode-eslint",
+    "jpoissonnier.vscode-styled-components",
+    "coenraads.bracket-pair-colorizer-2",
+    "ms-vscode-remote.remote-wsl",
+    "oderwat.indent-rainbow",
+    "ms-vsliveshare.vsliveshare",
+    "chakrounanas.turbo-console-log",
+    "apollographql.vscode-apollo"
+  ]
+}
